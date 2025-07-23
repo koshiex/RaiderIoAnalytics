@@ -10,7 +10,6 @@ __pycache__/
 *.pyzwz
 
 *.html
-*.json
 *.png
 *.svg
 *.txt
@@ -19,3 +18,5 @@ __pycache__/
 *.jsonl
 *.jsonl.gz
 *.jsonl.bz2
+
+config.json
